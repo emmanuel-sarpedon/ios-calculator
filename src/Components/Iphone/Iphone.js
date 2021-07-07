@@ -1,5 +1,4 @@
 import "./Iphone.css";
-import Calculator from "../Calculator/Calculator";
 
 const Iphone = (props) => {
   const { content } = props;
