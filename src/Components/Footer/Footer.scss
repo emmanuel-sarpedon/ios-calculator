@@ -1,8 +1,13 @@
 .Footer {
   text-align: center;
+  color: white;
+  margin: 15px 0;
   div {
-    font-size: 0.85em;
-    margin: 50px 0;
+    font-size: 0.7em;
+  }
+
+  a {
+    color: inherit;
   }
 
   a:visited {

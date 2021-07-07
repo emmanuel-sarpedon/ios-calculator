@@ -1,6 +1,7 @@
 import "./Calculator.scss";
 
 import Buttons from "../Buttons/Buttons";
+import Footer from "../Footer/Footer";
 
 import { useState } from "react";
 
@@ -124,6 +125,7 @@ const Calculator = () => {
           onClick={() => handleOperator("=")}
         />
       </div>
+      <Footer />
     </div>
   );
 };

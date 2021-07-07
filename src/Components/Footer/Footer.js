@@ -13,10 +13,6 @@ const Footer = () => {
           <i class="fab fa-github fa-2x"></i>
         </a>
       </div>
-      <div>
-        Thanks to Oleg for designing Iphone device in Pure CSS →
-        https://marvelapp.github.io/devices.css/
-      </div>
     </footer>
   );
 };
