@@ -1,0 +1,43 @@
+$button-size: 55px;
+
+.Buttons {
+  color: white;
+  height: $button-size;
+  width: $button-size;
+  box-sizing: border-box;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.operator {
+  background-color: #fc9f0c;
+  color: white;
+}
+
+.option {
+  color: black;
+  background-color: #a2a2a2;
+}
+
+.digit {
+  color: white;
+  background-color: rgb(54, 54, 54);
+
+  &-large {
+    width: $button-size * 2 + 10px;
+    border-radius: 50px;
+    justify-content: flex-start;
+    padding-left: $button-size * 0.4;
+  }
+}
+.Buttons:hover {
+  cursor: pointer;
+}
+
+.Buttons:active {
+  opacity: 0.75;
+}

@@ -1,0 +1,21 @@
+[
+  { "display": "AC", "type": "option" },
+  { "display": "±", "type": "option" },
+  { "display": "%", "type": "option" },
+  { "display": "÷", "type": "operator" },
+  { "display": "7", "type": "digit" },
+  { "display": "8", "type": "digit" },
+  { "display": "9", "type": "digit" },
+  { "display": "x", "type": "operator" },
+  { "display": "4", "type": "digit" },
+  { "display": "5", "type": "digit" },
+  { "display": "6", "type": "digit" },
+  { "display": "-", "type": "operator" },
+  { "display": "1", "type": "digit" },
+  { "display": "2", "type": "digit" },
+  { "display": "3", "type": "digit" },
+  { "display": "+", "type": "operator" },
+  { "display": "0", "type": "digit digit-large" },
+  { "display": ",", "type": "digit" },
+  { "display": "=", "type": "operator" }
+]
