@@ -1,10 +1,8 @@
 # ios-calculator 📱
 
-Netlify app :
+Netlify app : <https://iphonex-calculator.netlify.app/>
 
 © Thanks to Oleg for designing Iphone device in Pure CSS → https://marvelapp.github.io/devices.css/
-
-<https://iphonex-calculator.netlify.app/>
 
 ## Reproduction de la calculatrice iOS <img src="https://www.beblue.fr/pub/media/mgs_brand/a/p/apple_logo_black.svg" width="50" style="margin: 0 30px; vertical-align: -20px">
 
